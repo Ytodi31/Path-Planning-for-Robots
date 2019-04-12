@@ -56,4 +56,4 @@ Range for y coordinates - 0 to 150
 	Enter the X coordinates of Start node: 3\
 	Enter the Y coordinates of Start node: 3\
 	Enter the X coordinates of Goal node: 247\
-	Enter the Y coordinates of Goal node: 147\
+	Enter the Y coordinates of Goal node: 147
