@@ -16,7 +16,7 @@
 
  - The program will explore the feasible paths and show the animation of the optimal path after it is found only to optimise time.
 
- - For faster results,, kindly comment the following sections :\
+ - For faster results, kindly comment the following sections :\
   Lines 135 to 142\
   This will turn off the animation during node exploration.
 
@@ -45,7 +45,7 @@ Range for y coordinates - 0 to 150
 
   - The program will explore the feasible paths and show the animation of the optimal path after it is found only to optimise time.
 
-  - For faster results,, kindly comment the following sections :\
+  - For faster results, kindly comment the following sections :\
   Lines211 to 219\
   This will turn off the animation during node exploration.
 
