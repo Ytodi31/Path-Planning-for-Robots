@@ -2,6 +2,7 @@
 
 -Workspace is considered as a 8 connected space, that means now you can move the robot in up, down, left, right & diagonally between up-left, up-right, down-left and down-right directions.
 
+<img src ="C:\Users\yasha\Dijkstra\Picture2.png alt="My cool logo"/>
 -Half planes and semi-algebraic sets are used to represent the Obstacles space
 
 1. Dijkstra_point_robot
