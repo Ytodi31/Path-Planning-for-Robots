@@ -5,9 +5,9 @@
 -Half planes and semi-algebraic sets are used to represent the Obstacles space
 
 1. Dijkstra_point_robot
-  - The program will ask for the x and y coordinates for 
-   a) Start Node
-   b) Goal Node
+  - The program will ask for the x and y coordinates for \
+   a) Start Node\
+   b) Goal Node\
    These can take positive integer or float values. The program will prompt to re-enter the coordinate if the the coordinates are out of   bounds of the map or lie in the obstacle area.
 
   - Range:
