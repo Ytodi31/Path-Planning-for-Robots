@@ -56,15 +56,15 @@ Range for y coordinates - 0 to 150
   
 - The program will explore the feasible paths and show the animation of the optimal path after it is found only to optimise time.
  
-  - For faster results, kindly comment the following sections :\
-  Lines273 to 274\
-  This will turn off the animation during node exploration.
+ - For faster results, kindly comment the following sections :\
+ Lines273 to 274\
+ This will turn off the animation during node exploration.
 
 
-  - For instance, the input will be as follows if the start is (3,3) and goal is (247,147) with robot radius 5mm and clearance as 2mm:\
-	Please enter the radius of the Robot: 5\
-	Please enter the clearance of the Robot: 2\
-	Enter the X coordinates of Start node: 3\
-	Enter the Y coordinates of Start node: 3\
-	Enter the X coordinates of Goal node: 247\
-	Enter the Y coordinates of Goal node: 147
+ - For instance, the input will be as follows if the start is (3,3) and goal is (247,147) with robot radius 5mm and clearance as 2mm:\
+ Please enter the radius of the Robot: 5\
+ Please enter the clearance of the Robot: 2\
+ Enter the X coordinates of Start node: 3\
+ Enter the Y coordinates of Start node: 3\
+ Enter the X coordinates of Goal node: 247\
+ Enter the Y coordinates of Goal node: 147
