@@ -12,8 +12,8 @@
    These can take positive integer or float values. 
 The program will prompt to re-enter the coordinate if the the coordinates are out of   bounds of the map or lie in the obstacle area.
 
- - Range:\ 
-   Range for x coordinates - 0 to 250 \ 
+ - Range: \ 
+   Range for x coordinates - 0 to 250  \ 
    Range for y coordinates - 0 to 150
 
 - The program will explore the feasible paths and show the animation of the optimal path after it is found only to optimise time.
