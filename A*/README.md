@@ -12,25 +12,21 @@
    These can take positive integer or float values. 
 The program will prompt to re-enter the coordinate if the the coordinates are out of   bounds of the map or lie in the obstacle area.
 
- - Range: \ 
-   Range for x coordinates - 0 to 250  \ 
-   Range for y coordinates - 0 to 150
+ - Range:\ 
+  Range for x coordinates - 0 to 250 \ 
+  Range for y coordinates - 0 to 150
 
 - The program will explore the feasible paths and show the animation of the optimal path after it is found only to optimise time.
 
-- For faster results, kindly comment the following sections : \ 
-  Lines 147 to 154 \ 
-  This will turn off the animation during node exploration.
+- For faster results, kindly comment the following sections :\ 
+ Lines 147 to 154\ 
+ This will turn off the animation during node exploration.
 
  
-- For instance, the input will be as follows if the start is (0,0) and goal is (250,150):\
-  
-Enter the X coordinates of Start node: 0\
-  
-Enter the Y coordinates of Start node: 0\
-  
-Enter the X coordinates of Goal node: 250\
-  
+- For instance, the input will be as follows if the start is (0,0) and goal is (250,150):\  
+Enter the X coordinates of Start node: 0\ 
+Enter the Y coordinates of Start node: 0\ 
+Enter the X coordinates of Goal node: 250\ 
 Enter the Y coordinates of Goal node: 150
   
   
