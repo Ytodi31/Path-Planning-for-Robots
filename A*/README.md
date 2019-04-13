@@ -19,14 +19,14 @@ Range for y coordinates - 0 to 150
 - The program will explore the feasible paths and show the animation of the optimal path after it is found only to optimise time.
 
 - For faster results, kindly comment the following sections :\ 
-Lines 147 to 154\ 
-This will turn off the animation during node exploration.
+ Lines 147 to 154\ 
+ This will turn off the animation during node exploration.
 
 - For instance, the input will be as follows if the start is (0,0) and goal is (250,150):\  
-Enter the X coordinates of Start node: 0\ 
-Enter the Y coordinates of Start node: 0\ 
-Enter the X coordinates of Goal node: 250\ 
-Enter the Y coordinates of Goal node: 150
+ Enter the X coordinates of Start node: 0\ 
+ Enter the Y coordinates of Start node: 0\ 
+ Enter the X coordinates of Goal node: 250\ 
+ Enter the Y coordinates of Goal node: 150
   
   
 
