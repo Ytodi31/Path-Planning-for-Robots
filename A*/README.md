@@ -19,7 +19,7 @@ Range for y coordinates - 0 to 150
 - The program will explore the feasible paths and show the animation of the optimal path after it is found only to optimise time.
 
  - For faster results, kindly comment the following sections :\
-  Lines 135 to 154\
+  Lines 147 to 154\
   This will turn off the animation during node exploration.
 
  - For instance, the input will be as follows if the start is (0,0) and goal is (250,150):\
